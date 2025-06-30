@@ -1,2 +1,2 @@
-# Patrones-de-Dis-o
+# Patrones-de-Diseño
 Proyect
